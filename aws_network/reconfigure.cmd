@@ -1,0 +1,1 @@
+terraform init  -backend-config=backend-uat.conf   -reconfigure 2>1
